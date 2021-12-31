@@ -1,4 +1,4 @@
-# Data_Science_Bootcamp
+# PySpark-Installation
 
-Welcome to Data Science Bootcamp Series. This repository houses the source code and other supporting artifacts related to this bootcamp series.
+This repository houses the installation steps PySpark on Jupyter and on Google Colab
 
